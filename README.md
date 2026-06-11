@@ -12,4 +12,4 @@ This is a simple Python project to manage tasks.
 ## How to Run
 
 ```bash
-python todo.py
+python project1.py
