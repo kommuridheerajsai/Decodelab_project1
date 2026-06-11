@@ -8,9 +8,13 @@ This is a simple Python project to manage tasks.
 - View tasks
 - Uses Python list
 - Uses enumerate method
+- 
+- ## Screenshot 
+
+![To-Do List Screenshot] (TO-DO-LIST-SCREENSHOT.png)
 
 ## How to Run
 
 ```bash
 python project1.py
-<img width="1920" height="1080" alt="Screenshot 2026-06-11 125123" src="https://github.com/user-attachments/assets/0ab70599-7621-4131-871e-c1d9fb741704" />
+
